@@ -1,0 +1,17 @@
+{
+  "name": "miniflare-quickjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "miniflare": "^3.20231218.2",
+    "quickjs-emscripten": "^0.26.0"
+  }
+}
