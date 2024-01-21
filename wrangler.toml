@@ -1,0 +1,5 @@
+name = "my-worker"
+main = "./src/index.ts"
+# main = "./dist/index.mjs"
+# main = "./dist/index.js"
+compatibility_date = "2024-01-21"
